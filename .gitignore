@@ -27,7 +27,8 @@ __pycache__/*
 
 # Unittest and coverage
 htmlcov/*
-.coverage
+.coverage*
+.pytest_cache
 .tox
 junit.xml
 coverage.xml
